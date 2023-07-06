@@ -1,0 +1,21 @@
+Title: HR Analytics Dashboard.
+
+	The HR Analytics Dashboard is a comprehensive data visualization project developed using Power BI, a powerful business intelligence tool. This project aims to provide HR professionals and decision-makers with an interactive and informative dashboard that presents key HR metrics and insights for effective workforce management and decision-making.
+
+The main objectives of the HR Analytics Dashboard project include:
+
+Data Integration: The project involves integrating data from various HR systems and sources such as employee records, performance management systems, recruitment databases, training and development platforms, and employee survey data.
+
+Data Modeling and Transformation: Raw HR data is transformed and modeled to create a structured and organized data model suitable for analysis. This may involve data cleansing, data merging, and creating relationships between different HR data sources.
+
+Visualizations and Interactive Elements: The dashboard utilizes a variety of visualizations such as charts, graphs, heat maps, and tables to present HR analytics in a visually appealing and easy-to-understand manner. Interactive elements such as slicers, filters, and drill-through functionalities allow users to explore the data and gain deeper insights.
+
+Workforce Demographics: This section provides visual representations of employee demographics, including age distribution, gender diversity, and ethnic composition.
+
+Employee Performance and Engagement: This section highlights key performance indicators (KPIs) related to employee performance, productivity, and engagement. 
+
+The HR Analytics Dashboard provides HR professionals and decision-makers with a centralized platform to analyze and understand critical HR metrics, uncover insights, and make informed decisions to enhance workforce management, engagement, and organizational success.
+
+
+
+
